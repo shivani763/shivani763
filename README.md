@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Goswami</h1>
-<h3 align="center">A passionate java Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3igXavorseXOwgkn0D8oOk&ust=1716925549357000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjfyaLNroYDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani763&label=Profile%20views&color=0e75b6&style=flat" alt="shivani763" /> </p>
