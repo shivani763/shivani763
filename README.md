@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shivanigoswami077@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/14rcViyHUMUpGtcnREgqQAUfPb0Zoysvj/view?usp=drivesdk](https://drive.google.com/drive/u/0/folders/1TcZzPxcpZhH_xdNIvw5kl0TcZ_Ahy2wA)](https://drive.google.com/file/d/1dmgu_WD5SuVZTGu-uX-fMFWu9-jVN6kY/view?usp=drivesdk)
+- 📄 Know about my experienc[https://www.linkedin.com/in/shivani258]()
 
 - ⚡ Fun fact **I am Cheerful😍**
 
