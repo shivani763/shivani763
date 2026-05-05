@@ -24,24 +24,38 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40"/>
   </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani763&show_icons=true&locale=en&layout=compact" alt="shivani763" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani763&show_icons=true&locale=en" alt="shivani763" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani763&" alt="shivani763" /></p>
