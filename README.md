@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani763&label=Profile%20views&color=0e75b6&style=flat" alt="shivani763" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and algorithms**
+- 🌱**Learning New Technologies....**
 
 - 📫 How to reach me **shivanigoswami077@gmail.com**
 
